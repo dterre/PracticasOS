@@ -1,3 +1,3 @@
 <?php
-print "OpenShift, make history";
+print "OpenShift, make history!";
 ?>
